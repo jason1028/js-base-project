@@ -1,0 +1,23 @@
+{
+  "name": "js-base-project",
+  "version": "1.0.0",
+  "description": "JS基础（基础不牢、地动山摇）",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build <your entry file>"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jason1028/js-base-project.git"
+  },
+  "author": "jason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jason1028/js-base-project/issues"
+  },
+  "homepage": "https://github.com/jason1028/js-base-project#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
